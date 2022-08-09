@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wangwy.github.io/csb-67yb4r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wangwy.github.io/csb-67yb4r/static/js/main.0e2e7c72.chunk.js",
+    "main.js.map": "https://wangwy.github.io/csb-67yb4r/static/js/main.0e2e7c72.chunk.js.map",
+    "runtime-main.js": "https://wangwy.github.io/csb-67yb4r/static/js/runtime-main.1b2ed246.js",
+    "runtime-main.js.map": "https://wangwy.github.io/csb-67yb4r/static/js/runtime-main.1b2ed246.js.map",
+    "static/js/2.84447a4b.chunk.js": "https://wangwy.github.io/csb-67yb4r/static/js/2.84447a4b.chunk.js",
+    "static/js/2.84447a4b.chunk.js.map": "https://wangwy.github.io/csb-67yb4r/static/js/2.84447a4b.chunk.js.map",
+    "index.html": "https://wangwy.github.io/csb-67yb4r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wangwy.github.io/csb-67yb4r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.84447a4b.chunk.js.LICENSE.txt": "https://wangwy.github.io/csb-67yb4r/static/js/2.84447a4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b2ed246.js",
+    "static/js/2.84447a4b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0e2e7c72.chunk.js"
+  ]
+}
